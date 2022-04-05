@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "마우스이벤트", "마우스이벤트\마우스이벤트.vcxproj", "{FF43A8AC-1424-45DB-A841-A6111856E87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF43A8AC-1424-45DB-A841-A6111856E87E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF43A8AC-1424-45DB-A841-A6111856E87E}.Debug|Win32.Build.0 = Debug|Win32
+		{FF43A8AC-1424-45DB-A841-A6111856E87E}.Release|Win32.ActiveCfg = Release|Win32
+		{FF43A8AC-1424-45DB-A841-A6111856E87E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
